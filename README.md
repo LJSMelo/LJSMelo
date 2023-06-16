@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente em busca de oportunidades
 - 🌱 Estudando desenvolvimento Back-End
-- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/LJSMelo">
