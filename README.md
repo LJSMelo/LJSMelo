@@ -1,7 +1,7 @@
 ### Oi! Me chamo Lucas José 👋
 
 - 🔭 Atualmente em busca de oportunidades
-- 🌱 Estudando desenvolvimento Back-End
+- 🌱 Estudando desenvolvimento Front-End
 
 <div align="center">
   <a href="https://github.com/LJSMelo">
